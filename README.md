@@ -4,4 +4,4 @@
 
 
 ## IDEA LIST
-* [던전앤파이터 API로 TCG장르의 웹게임 만들기] (https://developers.neople.co.kr/contents/guide/pages/all)
+* [던전앤파이터 API로 TCG장르의 웹게임 만들기] (https://developers.neople.co.kr/main)
