@@ -10,6 +10,10 @@
 * [기술 블로그]
 
 
+## REFERENCE
+* [PoiemaWeb | Web Development Tutorial] (https://poiemaweb.com)
+
+
 ## Goal LIST
 
 * ASP.NET (with C#) 을 이용, MVC 형태로의 개발에 능숙한 사람
