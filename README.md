@@ -10,7 +10,7 @@
 * [기술 블로그]
 
 
-## REFERENCE
+## REFERENCE LIST
 * [PoiemaWeb | Web Development Tutorial] (https://poiemaweb.com)
 
 
