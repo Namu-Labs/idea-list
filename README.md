@@ -4,14 +4,14 @@
 
 
 ## IDEA LIST
-* [던전앤파이터 API로 TCG장르의 웹게임 만들기] (https://developers.neople.co.kr/main)
 * [웹 기반 게임 런처]
 * [게임 시스템 분석 블로그]
 * [기술 블로그]
 
 
-## REFERENCE LIST
+## Refrence LIST
 * [PoiemaWeb | Web Development Tutorial] (https://poiemaweb.com)
+* [Neople Developers] (https://developers.neople.co.kr)
 
 
 ## Goal LIST
